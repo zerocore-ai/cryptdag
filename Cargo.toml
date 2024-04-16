@@ -1,5 +1,5 @@
 [workspace]
-members = ["dag-key-gen"]
+members = ["cryptdag"]
 resolver = "2"
 
 [workspace.package]

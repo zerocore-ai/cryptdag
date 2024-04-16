@@ -1,0 +1,14 @@
+[package]
+name = "cryptdag"
+description = "a structure-aware key generation tool for systems that are able to be represented as directed acyclic graphs (DAGs)"
+version.workspace = true
+license.workspace = true
+repository.workspace = true
+authors.workspace = true
+edition.workspace = true
+
+[dependencies]
+skip_ratchet = "0.3.0"
+
+[dev-dependencies]
+rand.workspace = true
