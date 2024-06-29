@@ -10,6 +10,7 @@
 - Use Cases
   - File system
   - Database
+  - Hierarchical Deterministic Keys like device keys
   - Note taking app
   - Git
   - Messaging
